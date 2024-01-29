@@ -4,7 +4,7 @@ public class Car {
     String model;
     String color;
     int year;
-    int currentSpeed ;
+    int currentSpeed;
 
     public Car(String model, String color, int year, int currentSpeed) {
         this.model = model;
@@ -30,9 +30,11 @@ public class Car {
     }
 
     public void breakSpeed() {
-        this.currentSpeed = currentSpeed - 10;
-        if (this.currentSpeed <= 0) {
+        if (this.currentSpeed <= 10) {
             this.currentSpeed = 0;
+        } else {
+            this.currentSpeed = currentSpeed - 10;
         }
+
     }
 }
