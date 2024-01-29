@@ -1,6 +1,4 @@
-package ru.inno.course.tasks.task_06;
-
-import ru.inno.course.tasks.task_01.Number;
+package ru.inno.course.tasks_L3.task_06;
 
 import java.util.Scanner;
 

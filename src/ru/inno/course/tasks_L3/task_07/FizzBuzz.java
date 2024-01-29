@@ -1,4 +1,4 @@
-package ru.inno.course.tasks.task_07;
+package ru.inno.course.tasks_L3.task_07;
 
 public class FizzBuzz {
     public static void main(String[] args) {

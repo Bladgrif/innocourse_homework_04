@@ -1,4 +1,4 @@
-package ru.inno.course.tasks.task_02;
+package ru.inno.course.tasks_L3.task_02;
 
 import java.util.Scanner;
 

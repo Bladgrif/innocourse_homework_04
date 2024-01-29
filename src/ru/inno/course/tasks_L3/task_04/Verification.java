@@ -1,4 +1,4 @@
-package ru.inno.course.tasks.task_04;
+package ru.inno.course.tasks_L3.task_04;
 
 import java.util.ArrayList;
 import java.util.List;
