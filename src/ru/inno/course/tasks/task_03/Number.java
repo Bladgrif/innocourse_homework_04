@@ -12,7 +12,7 @@ public class Number {
     }
 
     public void checkingForParityOfNumberV2(int variable) {
-        if (variable % 2 == 0 & variable % 4 == 0) {
+        if (variable % 4 == 0) {
             System.out.println("Четное число. Кратно четырем");
         } else if (variable % 2 == 0) {
             System.out.println("Четное число.");
